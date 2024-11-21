@@ -1,9 +1,11 @@
 <div align="center">
-  <img align="left" src="https://i.imgur.com/taVNzzc.png" width="150" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.imgur.com/taVNzzc.png" width="150" style="margin-right: 20px; margin-bottom: -50px"/>
   
   <h1>Olá, me chamo Jéssica !</h1>
 </div>
-<h2>Bem vindo ao meu perfil GitHub 👋</h2>
+
+## Bem vindo ao meu perfil GitHub 👋
+
 <div style="margin-top: 50px">
 Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia e gosto de explorar minha criatividade! Sou aventureira no universo da programação, estou sempre em busca de novos aprendizados na área de programação, e no momento estou explorando back-end e passando raiva junto, mais eu amo tudo isso! ❤
 </div>
