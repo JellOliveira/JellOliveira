@@ -44,4 +44,8 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 
 <div>
 
-![Snake animation](https://github.com/JellOliveira/JellOliveira/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario-github/seu-usuario-github/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario-github/seu-usuario-github/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario-github/seu-usuario-github/output/github-contribution-grid-snake.svg">
+</picture>
