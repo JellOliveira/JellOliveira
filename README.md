@@ -43,10 +43,5 @@ Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia 
 ##
 
 <div>
-  <a href="https://github.com/jelloliveira">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-oliveira&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
 ![Snake animation](https://github.com/jelloliveira/jelloliveira/blob/output/github-contribution-grid-snake.svg)
