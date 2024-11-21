@@ -1,7 +1,7 @@
 <div align="center">
   <img align="direct" src="https://i.imgur.com/taVNzzc.png" width="150" style="margin-right: 20px; margin-bottom: -50px"/>
   
-  <h1>Olá, me chamo Jéssica !</h1>
+  <h1>Olá, me chamo Jéssica!</h1>
 </div>
 
 ## Bem vindo ao meu perfil GitHub 👋
@@ -43,5 +43,5 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 ##
 
 <div align="center">
-  <img align="direct" src="https://i.imgur.com/5UHXvu9.png" width="200" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.imgur.com/5UHXvu9.png" width="500" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>
