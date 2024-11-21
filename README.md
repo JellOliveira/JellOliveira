@@ -44,4 +44,4 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 
 <div>
 
-![Snake animation](https://github.com/seu-usuario-github/seu-usuario-github/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jelloliveira-github/jelloliveira-github/blob/output/github-contribution-grid-snake.svg)
