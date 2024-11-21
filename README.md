@@ -7,7 +7,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 <div style="margin-top: 50px">
-Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia e gosto de explorar minha criatividade! Sou aventureira no universo da programação, estou sempre em busca de novos aprendizados na área de programação, e no momento estou explorando back-end e passando raiva junto, mais eu amo tudo isso! ❤
+Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologia e gosto de explorar minha criatividade! Sou aventureira no universo da programação, estou sempre em busca de novos aprendizados na área de programação, e no momento estou explorando back-end e passando raiva junto, mais eu amo tudo isso! ❤
 </div>
 
 <div align="center">
