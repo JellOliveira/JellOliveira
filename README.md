@@ -42,10 +42,6 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 
 ##
 
-<div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JellOliveira/JellOliveira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JellOliveira/JellOliveira/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JellOliveira/JellOliveira/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img align="direct" src="https://i.imgur.com/5UHXvu9.png" width="200" style="margin-right: 20px; margin-bottom: -50px"/>
+</div>
