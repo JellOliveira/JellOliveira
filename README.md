@@ -43,5 +43,5 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 ##
 
 <div align="center">
-  <img align="direct" src="https://i.imgur.com/5UHXvu9.png" width="400" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.imgur.com/5UHXvu9.png" width="350" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>
