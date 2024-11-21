@@ -2,11 +2,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 <div style="float: right; margin-top: -20px;">
-  <img src="[https://via.placeholder.com/150](https://files.fm/u/azj5mbcua8)" alt="Olá">
+  <img src="https://files.fm/u/azj5mbcua8">
 </div>
-
-<!--
-**JellOliveira/JellOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia e gosto de explorar minha criatividade! Sou aventureira no universo da programação, estou sempre em busca de novos aprendizados na área de programação, e no momento estou explorando back-end e passando raiva junto, mais eu amo tudo isso! ❤
 
