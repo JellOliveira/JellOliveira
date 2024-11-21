@@ -7,9 +7,7 @@ Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia 
 
 ## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
@@ -36,10 +34,10 @@ Tenho 27 anos, sou de Vitória da Conquista/Bahia sou apaixonada por tecnologia 
 ##
 
 <div>
-  <a href="https://github.com/jessica-oliveira">
+  <a href="https://github.com/jelloliveira">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessica-oliveira&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
-![Snake animation](https://github.com/jessica-oliveira/jessica-oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jelloliveira/jelloliveira/blob/output/github-contribution-grid-snake.svg)
