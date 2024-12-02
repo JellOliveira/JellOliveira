@@ -11,7 +11,7 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/ZLG7Mqd/262a9dd776fd65edaa899933ed578c896b9bba9093db4f35a936f6b0066330a0-0-removebg-preview.png" width="200"/>
+  <img src="https://i.ibb.co/ZLG7Mqd/262a9dd776fd65edaa899933ed578c896b9bba9093db4f35a936f6b0066330a0-0-removebg-preview.png" width="300"/>
 </div>
 
 ## Ferramentas e Tecnologias
@@ -43,5 +43,5 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 ##
 
 <div align="center">
-  <img align="direct" src="https://i.ibb.co/jHJFYS4/c06606fb23290a4e5596e822697514998d747d3916af7872b02c97ff02735de1-0-removebg-preview.png" width="250" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.ibb.co/jHJFYS4/c06606fb23290a4e5596e822697514998d747d3916af7872b02c97ff02735de1-0-removebg-preview.png" width="350" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>
