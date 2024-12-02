@@ -30,10 +30,10 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 ## Contatos:
 <div>
   <a href="https://instagram.com/jell_oliveira_" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.icons8.com/clouds/100/instagram-new--v2.png" target="_blank">
   </a>
   <a href="mailto:jessy.meira.30@proton.me">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.icons8.com/clouds/100/new-post.png" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jessica-oliveira-meira" target="_blank">
     <img loading="lazy" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
