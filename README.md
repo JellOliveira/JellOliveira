@@ -36,12 +36,12 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jessica-oliveira-meira" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img loading="lazy" src="https://img.icons8.com/?size=100&id=64154&format=png&color=000000" target="_blank">
   </a>   
 </div>
 
 ##
 
 <div align="center">
-  <img align="direct" src="https://i.ibb.co/jHJFYS4/c06606fb23290a4e5596e822697514998d747d3916af7872b02c97ff02735de1-0-removebg-preview.png" width="350" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.ibb.co/jHJFYS4/c06606fb23290a4e5596e822697514998d747d3916af7872b02c97ff02735de1-0-removebg-preview.png" width="300" style="margin-right: 20px; margin-bottom: -50px"/>
 </div>
