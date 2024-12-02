@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="direct" src="https://files.fm/u/ffp4qsch5j" width="150" style="margin-right: 20px; margin-bottom: -50px"/>
+  <img align="direct" src="https://i.ibb.co/4ttcD2C/685e62309412fb0f0aa41c175017dd308f1023dc0d7f9e1958c2b854e8e642f0-0-removebg-preview.png" width="150" style="margin-right: 20px; margin-bottom: -50px"/>
   
   <h1>Olá, me chamo Jéssica!</h1>
 </div>
