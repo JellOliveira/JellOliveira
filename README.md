@@ -23,9 +23,10 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
 </div>
 
 ## Atualmente:
-- 🎓 Estudante de ADS - Análise e Desenvolvimento de Sistemas na faculdade Anhanguera
+- 🎓 Estudante de ADS - Análise e Desenvolvimento de Sistemas na faculdade Anhanguera - 3º Semestre
 - 💻 Fiz o curso básico de Python no curso em vídeo, irei aprofundar mais na linguagem Python
-- 🕐 Estou fazendo o curso de Front-end e MySQL atualmente
+- 💻 Fiz o curso básico MySQL
+- 🕐 Estou fazendo o curso de Front-end
 
 ## Contatos:
 <div>
