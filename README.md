@@ -7,7 +7,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 <div style="margin-top: 50px">
-Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologia e gosto de explorar minha criatividade! Sou aventureira no universo da programação, estou sempre em busca de novos aprendizados na área de programação, e no momento estou explorando back-end e passando raiva junto, mais eu amo tudo isso! ❤
+Tenho 28 anos, moro em Vitória da Conquista/BA, sou apaixonada por tecnologia e adoro explorar minha criatividade! 💡
+Sou uma exploradora do universo da programação, sempre em busca de novos aprendizados e desafios. Atualmente, estou mergulhando no mundo da automação, criando soluções que facilitam processos do dia a dia e otimizam o trabalho dentro da empresa onde presto suporte aos alunos. 
 </div>
 
 <div align="center">
@@ -20,13 +21,26 @@ Tenho 27 anos, moro em Vitória da Conquista/Bahia, sou apaixonada por tecnologi
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="Javascript"/>
+</svg>
 </div>
 
-## Atualmente:
-- 🎓 Estudante de ADS - Análise e Desenvolvimento de Sistemas na faculdade Anhanguera - 3º Semestre
-- 💻 Fiz o curso básico de Python no curso em vídeo, irei aprofundar mais na linguagem Python
-- 💻 Fiz o curso básico MySQL
-- 🕐 Estou fazendo o curso de Front-end
+## 🎯 Resumo das Atividades Recentes
+
+- 🎓 Estudante de ADS - Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera - 4º semestre  
+- 💻 Já concluí cursos básicos de **Python** e **MySQL** e sigo estudando para me aprofundar mais  
+- 💻 Atualmente estudando **Front-end** e **Automação**  
+- 🤖 Desenvolvendo **automações via WhatsApp** e **agentes de IA**  
+- 🔧 Criei um **sistema completo de agendamento e disparo de mensagens** usando o **n8n como back-end**
+- 🌐 Desenvolvi uma **página web moderna, intuitiva e fácil de usar** como front-end da automação, permitindo:
+  - Upload do link da planilha Google com contatos
+  - Mensagens personalizadas com **emojis**, **links**, **convites de grupo** e variável **{nome}** para personalização dinâmica
+  - Agendamento de mensagens para contatos individuais ou grupos, diretamente pelo navegador, sem que o usuário necessite conhecimento técnico no n8n
+- 📩 Desenvolvi, ainda, uma automação para envio de **códigos de rastreio por e-mail e WhatsApp**, totalmente integrado a planilhas, focado em usabilidade para quem não domina automação
+
+  ## 🚀 Em Busca de Mais
+
+Minha rotina gira em torno do desenvolvimento de **novas automações**, páginas web e integrações via **APIs**. Sigo aprendendo, praticando e buscando unir criatividade e tecnologia para transformar ideias em soluções práticas e inovadoras.
 
 ## Contatos:
 <div>
