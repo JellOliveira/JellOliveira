@@ -21,7 +21,7 @@ Sou uma exploradora do universo da programação, sempre em busca de novos apren
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/>
-  <img loading="lazy" src="http://www.w3.org/2000/svg" width="40" height="40" title="Javascript"/>
+  <img loading="lazy" src="https://img.icons8.com/ios-filled/50/javascript-logo.png" width="40" height="40" title="Javascript"/>
 </svg>
 </div>
 
